@@ -114,4 +114,4 @@ Auto-approval only happens when the Microsoft Energy Data Services Preview insta
 ## Next steps
 <!-- Add a context sentence for the following links -->
 > [!div class="nextstepaction"]
-> [How to manage data security and encryption](how-to-manage-data-security-and-encryption.md)
+> [How to manage users](how-to-manage-users.md)
